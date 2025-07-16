@@ -7,7 +7,7 @@ I develop predictive models that leverage machine learning methods with advanced
 # Tech Tools
 
 ## Languages
-Python
+[Python](https://www.python.org/)
 
 ## Database Tools
 MySQL PostgreSQL SQLite
