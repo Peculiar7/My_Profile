@@ -10,7 +10,7 @@ I develop predictive models that leverage machine learning methods with advanced
 [Python](https://www.python.org/)
 
 ## Database Tools
-[MySQL](https://www.mysql.com/) [PostgreSQL] [SQLite](https://www.sqlite.org/)
+[MySQL](https://www.mysql.com/) [PostgreSQL](https://www.postgresql.org/)  [SQLite](https://www.sqlite.org/)
 
 ## Machine Learning Tools
 [TensorFlow](https://www.tensorflow.org/) [Scikit-Learn](https://scikit-learn.org/stable/) [Keras](https://keras.io/) [XGBoost](https://xgboost.ai/) [OpenCV](https://opencv.org/)
@@ -19,4 +19,4 @@ I develop predictive models that leverage machine learning methods with advanced
 [FastAPI](https://fastapi.tiangolo.com/) [Flask](https://flask.palletsprojects.com/en/stable/)
 
 ## Cloud Computing
-https://azure.microsoft.com/en-gb/
+[Azure](https://azure.microsoft.com/en-gb/)
